@@ -21,7 +21,7 @@
 
 > 机构初始状态为一截角八面体，其整体构造如图 1 所示。本机构以三重对称 Bricard 连杆机构为折展运动单元，采用 15 个转动副与 9 个球副。经计算，该可 展机构的自由度为 1。Bricard 机构如图 2 所示。原点的定义及坐标系的建立如图 3 所示。正方形 B 围绕 B1 关节轴线旋转，正方形 C 围绕 C2关节旋转，使 B4与 C2重合，C1 与 B1 重合（如图 4 所示），由于 Bricard 机构的三重对称性以及六 边形 D1D2E1E2F1F2与六边形A1A2C1C2B1B2结构相同，因此可得出其他点的运动 过程。其运动顺序如图 4 所示。
 
-![可展机构](https://github.com/LancashireLiu/Expandable-Structure/blob/main/pic%20and%20video/readmepic3.jpg)
+![可展机构](https://github.com/LancashireLiu/Expandable-Structure/blob/main/pic%20and%20video/readmepic3.png)
 
 通过立体几何矩阵理论可以计算出所有结点在空间中的位置和转轴（转动副）的朝向向量。
 
@@ -40,5 +40,5 @@
 
 ![可展机构](https://github.com/LancashireLiu/Expandable-Structure/blob/main/pic%20and%20video/readmepic7.jpg)
 
-![可展机构](https://github.com/LancashireLiu/Expandable-Structure/blob/main/pic%20and%20video/readmefin.jpg)
+
 
